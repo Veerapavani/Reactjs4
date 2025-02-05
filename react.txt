@@ -1,0 +1,16 @@
+PROPS IN React
+> props stands for properties
+> props are used to send data from one component to another component.
+> props are uni-direction.
+> parent to child not from child to parent
+> pro are nothing but a object
+> props are immutable (read-only)
+
+day - 14
+state is uded to store the the in the same component and updates the data in the same componet
+> state are mutable() (which means state can be read() and write)
+
+Syntax : 
+let [initial-value , function] = useaState(initial-value)
+
+(array distruture)
